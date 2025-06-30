@@ -1,6 +1,5 @@
 # 🧠 Mastering Data Structures and Algorithms in Python – A 6-Week Roadmap
 
-### 🧑‍💻 Author: Samwel Ngusa  
 ### 🐍 Language: Python 3  
 ### 🗓 Duration: 6 Weeks  
 ### 📚 Learning Style: Book-First + Practice-Heavy  
